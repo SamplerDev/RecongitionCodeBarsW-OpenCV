@@ -1,0 +1,7 @@
+Pasillo A, Rack 2, Nivel 3 Type: QRCODE Timer: 603511.24
+3456345623453 Type: CODE128 Timer: 603528.70
+22222211111123 Type: CODE128 Timer: 603549.84
+Pasillo A, Rack 2, Nivel 3 Type: QRCODE Timer: 603658.30
+3456345623453 Type: CODE128 Timer: 603667.00
+22222211111123 Type: CODE128 Timer: 603667.46
+https://docs.google.com/forms/d/e/1FAIpQLSfJnmuwdo8Y_KPYeIhQdesa-Lf_gJjg7yIHCUqPHXiUPXN45A/viewform?usp=sf_link Type: QRCODE Timer: 609056.77
